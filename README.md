@@ -3,9 +3,9 @@
 
 ### Технологии:
 
-Python
-API Telegram
-Университетский API
+1. Python
+2. API Telegram
+3. Университетский API
 ## Инструкция по запуску
 
 Скачать проект с Github
